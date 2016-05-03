@@ -730,138 +730,7 @@ box-sizing: border-box;
     text-decoration: none;
 }
 
-/** CONTACT OVERRIDES */
-section#location {
-	padding-top: 0px;
-	margin-bottom: 0;
-	padding-bottom: 30px;
-	margin-bottom: 30px;
-/*	background-color: #f4f9f9;*/
-	border-top: .5px solid #1f1b18;
-}
 
-#location .schedule-online a.button{background-color:#fcb426  !important;font-family:'Lato', sans-serif;color:#ffffff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
-#location .schedule-online a.button{background-color:#fcb426  !important; font-family:'Lato', sans-serif;color:#ffffff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
-#location .schedule-online a.button:hover{background-color:#c79229 !important; font-family:'Lato', sans-serif;color:#ffffff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
-
-#contact-form {
-    position: relative;
-    max-width: 500px;
-    background-color: #FFF;
-    text-align: center;
-    padding: 15px;
-    margin: 0 auto;
-    z-index: 10;
-    border-radius: 4px;
-}
-
-.fax-styling {
-	font-size: 19px;
-	color: #000 !important;
-}
-
-.fax-styling a {
-	font-size: 19px;
-	color: #000 !important;
-}
-
-.directions{
-	color: #e36314 !important;
-}
-
-.directions:hover{
-	color: #e36314 !important;
-	text-decoration: underline !important;
-}
-
-#location th, #location td {
-    margin-top: -30px;
-    padding: 6px 10px;
-    border-bottom: 1px solid rgba(0, 0, 0, .25);
-    font-size: 20px;
-    color: #000 !important;
-}
-
-#location td {
-    text-align: right;
-}
-
-th {
-    width: 1px;
-    white-space: nowrap;
-    text-align: right;
-}
-
-th {
-    font-weight: bold;
-}
-user agent stylesheettd, th {
-    display: table-cell;
-    vertical-align: inherit;
-}
-
-.table td,
-.table th{background-color:#fff !important;}
-.table-bordered th,
-.table-bordered td{border:1px solid #ddd !important;}
-}
-.table{border-collapse:collapse !important;}
-.table td,
-.table th{background-color:#fff !important;}
-.table-bordered th,
-.table-bordered td{border:1px solid #ddd !important;}
-}
-
-.location-hours br{
-	padding: 6px 10px;
-  border-bottom: 1px solid rgba(0, 0, 0, .25);
-}
-
-#contact-form-overlay-mobile{
-	background-color: #FFF;
-	padding: 10px;
-	margin: 0 auto;
-	border-radius: 4px;
-	box-shadow: 0 1px 10px rgba(0,0,0,0.15);
-}
-
-.newpatient-hotline{
-	font-size: 30px;
-	color: #e36314 !important;
-}
-
-.hotline {
-	font-size: 25px;
-	color: #e36314 !important;
-}
-
-.hours-oncall{
-	font-size: 14px;
-}
-
-.hours-oncall a{
-	color: #1f1b18;
-	font-family:'Lato', sans-serif;
-}
-
-@media (max-width: 480px) {
-	.open-text{
-		font-size: 12px;
-	}
-}
-
-
-@media (max-width: 480px) {
-#google-map{
-	max-height: 300px;
-	}
-}
-
-#mobileLogo{
-	max-height: 250px;
-	max-width: 250px;
-	vertical-align: middle;
-}
 
 label.error {
 	margin-top: 5px;
@@ -874,156 +743,6 @@ label.error { display: none !important; }
 .form-control.error,
 .sm-form-control.error { border-color: #E42C3E; }
 
-.address-border-1{
-	border-right: 1px solid #000;
-	height: 345px;
-}
-
-.address-border-2{
-	border-right: 1px solid #000;
-		height: 345px;
-}
-
-@media(min-width:767px) and (max-width: 990px){
-
-	.address-border-1{
-		border-right: 1px solid #000;
-		height: 370px;
-	}
-
-	.hours-text {
-    font-size: 18px;
-    margin-top: 20px;
-    color: #797874;
-}
-
-}
-
-@media(max-width:766px){
-
-	.address-border-1{
-		border-right: none;
-		height: auto;
-	}
-
-	.address-border-2{
-		border-right: none;
-		height: auto;
-	}
-
-}
-
-.barker-logo-bottom{
-	margin-bottom: 30px;
-}
-
-address {
-	font-size: 1.2em;
-	margin-top: 10px;
-/*	margin-bottom: 30px;*/
-}
-
-.address-text{
-	margin-bottom: 14px !important;
-	color: #000;
-}
-
-.new-patients{
-	font-size: 27px;
-	margin-top: 15px;
-	color: #000;
-}
-
-.new-patients a{
-	font-size: 35px;
-	color: #ee19b4; 
-	font-family: 'Lato', sans-serif;
-}
-
-#location p.new-patient-hotline, #location p.existing-patients {
-	font-size: 25px;
-	color: #000;
-	margin-bottom: 35px !important;
-}
-
-#location .button{
-	background-color: #ee19b4 !important;
-}
-
-#location .button:hover{
-	background-color: #7c125f  !important;
-}
-
-.hours-headline{
-	margin-top:-10px !important;
-	font-size: 28px;
-	color: #000 !important;
-}
-
-.hours-text{
-	font-size: 22px;
-	margin-top: 20px;
-	color: #000 !important;
-	font-family: "Lato", sans-serif !important;
-}
-
-.hours-table{
-	margin-top: 25px;
-	color: #000;
-}
-
-
-.click-for-address{
-	color: #ee19b4  !important;
-	font-size: 20px !important;
-}
-
-@media(max-width: 560px){
-	address {
-    font-size: 1.2em;
-	}
-
-	.click-for-address {
-	    font-size: 18px !important;
-	}
-
-	.new-patients a {
-	    font-size: 30px;
-	}
-
-	#location p.new-patient-hotline, #location p.existing-patients {
-	    font-size: 22px;
-	}
-
-	.hours-text {
-	    font-size: 16px;
-	    margin-top: 20px;
-	}
-
-}
-
-.existing-patients{
-	font-size: 25px;
-}
-
-.existing-patients a{
-	font-size: 25px;
-	color: #ee19b4; 
-	font-family: sans-serif;
-  padding: 0px !important;
-}
-
-.hours{
-	font-size: 25px;
-	margin-top: 20px;
-	color: #000;
-}
-
-
-
-#location p.new-patient-hotline small, #location p.existing-patients small {
-	margin-bottom: -5px;
-}
 
 /*MODAL OVERRIDES*/
 .modal-body{
@@ -1083,56 +802,133 @@ address {
 	display: inline;
 }
 
-/*FOOTER OVERRIDES*/
+/*Location Overrides*/
 
-#footer {
+#location {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+#contact-form-overlay-mini-mobile {
     position: relative;
-    background-color: #797874 !important;
+    max-width: 500px;
+    background-color: #FFF;
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    z-index: 10;
+    border-radius: 4px;
 }
 
-.footer-icons{
-	height: 50px;
-	width: 50px;
-	padding: 2px;
-	text-rendering: optimizeLegibility;
+.desktop-address{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 20px
 }
 
-
-#footer-links {
-	margin-top: 30px;
-	margin-bottom: 30px;
+.mobile-address{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 20px;
 }
 
-.img-responsive-icons {
-    width: 250px;
-    height: auto;
+.device-xxs #location .existing-patients {
+    color: #50403c !important;
+    font-size: 14px;
+}
+
+.device-sm .mobile-location-logo{
+    width: 85%;
+}
+
+.device-xs .mobile-location-logo{
+    width: 85%;
+}
+
+@media (max-width: 992px) {
+    #contact-form-overlay, #contact-form-overlay-mini {
+         box-shadow: none !important; 
+         background-color: inherit !important;
+    }
+        #contact-form-overlay, #contact-form-overlay-mini-mobile {
+         box-shadow: none !important; 
+         background-color: inherit !important;
+    }
+}
+
+@media (max-width: 992px) {
+.map{
+    height: 200px !important;
+    }
+}
+
+#location #map-overlay {
+    position: relative;
+    padding: 20px 0;
+}
+
+#location #contact-form-overlay, #contact-form-overlay-mini {
+    padding: 10px;
+    text-align: center;
+}
+
+#location address {
+    line-height: 1;
+    font-size: 1.2em;
+}
+
+#location address a {
+    color: #034ea2;
+}
+
+#location address strong {
     display: block;
+    margin-top: 10px;
+    font-size: 1.05em;
 }
 
-.social-media-icons{
-	padding-top: 15px;
+#location a.button {
+    background-color: #487b7e;
+    color: #ffffff;
+    margin-top: 10px !important;
 }
 
-.ts-text{
-	font-size: 15px !important;
-	color: #a09b92 !important;
+#location a.button:hover {
+    background-color: #39696c;
+    color: #ffffff;
+}
+
+#location h3, #location .existing-patients {
+    color: #50403c !important;
+    font-size: 16px;
+}
+
+#location h3 a {
+    color: #034ea2 !important;
+    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#location .existing-patients a {
+    color:#034ea2 !important;
+    font-weight: bold;
 }
 
 #copyrights {
-  background: url('../images/footer-background.jpg') 50% 0% no-repeat;
+background-image:url('../images/footer.jpg');background-size:cover;
   color: #9b9992 !important;
   height: 260px;
 }
 
 .footer-text-bottom{
-	margin-top: 8em;
+    margin-top: 8em;
 }
 
-.social-icon i {
-    display: block;
-    position: relative;
-    color: #ffffff;
+
+#gotoTop:hover{
+    background-color: #487b7e;
 }
+
 
 /*STYLE FOR POPUP MODAL*/
 table {
