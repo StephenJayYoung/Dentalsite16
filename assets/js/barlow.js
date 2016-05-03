@@ -121,12 +121,12 @@ jQuery(document).ready(function($){
     // google maps script
     $('#google-map').gMap({
 
-        address: '602 North Calgary Court, Suite 201, Post Falls, ID 83854',
+        address: '101 Broad Street, Suite 203, Lake Geneva, WI 53147',
         maptype: 'ROADMAP',
         zoom: 16,
         markers: [
             {
-                address: "602 North Calgary Court, Suite 201, Post Falls, ID 83854",
+                address: "101 Broad Street, Suite 203, Lake Geneva, WI 53147",
                 icon: {
                     image: "assets/images/icons/map-icon-red.png",
                     iconsize: [32, 39],
