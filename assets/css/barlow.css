@@ -448,10 +448,10 @@ section#specials {
 	}
 }
 
-.pricing-box-responsive-three{
+/*.pricing-box-responsive-three{
     padding-top: 40px !important;
     padding-bottom: 31px !important;
-}
+}*/
 
 @media (min-width: 991px) and (max-width: 1199px) {
 	.pricing-box-responsive{
