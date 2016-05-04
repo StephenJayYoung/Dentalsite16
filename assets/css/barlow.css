@@ -142,11 +142,11 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 #primary-menu > ul > li.current a {
-	color: #eb508e !important;
+	color: #be202e !important;
 }
 
 #primary-menu > ul > li a:hover {
-	color: #eb508e  !important;
+	color: #be202e  !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -165,11 +165,11 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 #primary-menu > ul > li.current a:hover{
-    color: #eb508e  !important;
+    color: #be202e  !important;
 }
 
 #primary-menu > ul > li a:hover{
-    color: #eb508e !important;
+    color: #be202e !important;
 }
 
 #primary-menu ul li a {
@@ -186,7 +186,7 @@ nav#primary-menu.statick-sticky > ul{
 
 @media (max-width: 991px) {
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a {
-    color: #ee19b4 !important;
+    color: #be202e !important;
 	}
 }
 
@@ -298,6 +298,9 @@ nav#primary-menu.statick-sticky > ul{
 
 .bio-image{width: 125%; max-width: 125%;}
 
+ .team.team-list .team-desc {
+    padding: 10px;
+}
 
 .device-sm .team.team-list .team-desc {
     padding: 10px;
@@ -573,7 +576,7 @@ section#members .heading-block span{
 }
 
 .icon-ok:before {
-    color: #4d78ab;
+    color: #be202e;
 }
 
 .pricing-box {
@@ -971,7 +974,7 @@ label.error { display: none !important; }
 #location #contact-form-overlay, #contact-form-overlay-mini {
     padding: 10px;
     text-align: center;
-    background-color: #fcfbf5;
+    background-color: #fff;
 }
 
 #location address {
@@ -1116,12 +1119,12 @@ input, select, textarea {
 /*CUSTOM BUTTON COLOR/MODAL COLORS*/
 
 .button{
-	background-color: #eb508e  !important;
+	background-color: #ba2b1a  !important;
 	font-family:'Lato', sans-serif;
 }
 
 .button:hover{
-	background-color:  #ba2b1a !important;
+	background-color:  #9c3241 !important;
 	font-family:'Lato', sans-serif;
 }
 
