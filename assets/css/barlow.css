@@ -142,11 +142,11 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 #primary-menu > ul > li.current a {
-	color: #ee19b4 !important;
+	color: #eb508e !important;
 }
 
 #primary-menu > ul > li a:hover {
-	color: #ee19b4  !important;
+	color: #eb508e  !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -165,11 +165,11 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 #primary-menu > ul > li.current a:hover{
-    color: #ee19b4  !important;
+    color: #eb508e  !important;
 }
 
 #primary-menu > ul > li a:hover{
-    color: #ee19b4 !important;
+    color: #eb508e !important;
 }
 
 #primary-menu ul li a {
@@ -633,7 +633,7 @@ section#members .heading-block span{
 }
 
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
-	background-color: #7c125f !important;;
+	background-color: #9c3241 !important;;
 }
 
 /** REVIEWS OVERRIDES */
