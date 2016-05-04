@@ -350,6 +350,19 @@ section#specials {
 	border-bottom-left-radius:10px;
 }
 
+.pricing-box-responsive{
+	padding-bottom: 20px;
+}
+
+.pricing-box-responsive-two{
+	padding-bottom: 25px;
+}
+
+.pricing-box-responsive-three{
+	padding-bottom: 25px;
+}
+
+
 .pricing-title {
     border-radius: 10px 10px 0 0;
 }
