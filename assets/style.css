@@ -9760,8 +9760,8 @@ body:not(.device-touch) .team-overlay {
 .pricing-box {
 	position: relative;
 	border: 1px solid rgba(0,0,0,0.075);
-	border-radius: 3px;
-	text-align: center;
+/*	border-radius: 3px;
+*/	text-align: center;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 	background-color: #F5F5F5;
 }
@@ -9773,8 +9773,8 @@ body:not(.device-touch) .team-overlay {
 .pricing-title {
 	padding: 15px 0;
 	background-color: #F9F9F9;
-	border-radius: 3px 3px 0 0;
-	text-shadow: 1px 1px 1px #FFF;
+/*	border-radius: 3px 3px 0 0;
+*/	text-shadow: 1px 1px 1px #FFF;
 	border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 
@@ -10704,8 +10704,8 @@ form .col_five_sixth { margin-bottom: 25px; }
 	padding: 40px;
 	margin: 0 auto;
 	z-index: 10;
-	border-radius: 4px;
-	box-shadow: 0 1px 10px rgba(0,0,0,0.15);
+/*	border-radius: 4px;
+*/	box-shadow: 0 1px 10px rgba(0,0,0,0.15);
 }
 
 #contact-form-overlay-mini {
