@@ -681,9 +681,9 @@ section#services {
 	font-size: 13px;
 }
 
-p, pre, ul, ol, dl, dd, blockquote, address, table, fieldset, form {
+/*p, pre, ul, ol, dl, dd, blockquote, address, table, fieldset, form {
     margin-bottom: 0px !important;
-}
+}*/
 
 .services-info{
 	color: #777777
