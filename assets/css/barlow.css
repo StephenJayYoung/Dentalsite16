@@ -917,6 +917,11 @@ label.error { display: none !important; }
     }
 }
 
+.doctor-mobile{padding-top: 20px; padding-bottom: 0px; font-size: 25px !important}
+
+.device-xxs .doctor-mobile{padding-top: 20px; padding-bottom: 0px; font-size: 21px !important}
+
+
 #location #map-overlay {
     position: relative;
     padding: 20px 0;
