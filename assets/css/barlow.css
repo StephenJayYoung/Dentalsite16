@@ -491,21 +491,17 @@ section#specials {
 
 @media (min-width: 991px) and (max-width: 1199px) {
 	.pricing-box-responsive{
-	padding-bottom: 5px;
+	padding-bottom: 35px;
 	}
 }
 
 @media (min-width: 768px) and (max-width: 990px) {
 	.pricing-box-responsive{
-	padding-bottom: 36px;
+	padding-bottom: 54px;
 	}
 
-	.pricing-headline-responsive{
-		margin-bottom: 30px !important;
-	}
-
-	.pricing-box-responsive-three{
-	padding-bottom: 62px !important;
+.pricing-box-responsive-two {
+    padding-bottom: 43px;
 }
 
 }
