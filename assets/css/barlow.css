@@ -20,7 +20,7 @@ a {
 }
 
 h2 {
-    color: #4d78ab;
+    color:  #2a3b8f;
     font-family: 'Raleway', serif;
     font-weight: 700 !important;
 }
@@ -222,7 +222,7 @@ nav#primary-menu.statick-sticky > ul{
 
 /** ACTIONS OVERRIDES */
 
-#actions{padding:20px 0;background-color:#fcfbf5;}
+#actions{padding:20px 0;background-color:#fbca3e;}
 .device-xxs #actions{padding:10px 0;}
 #actions h3{color:#333 !important;font-size:16px;margin-bottom:0;}
 #actions h3 a{display:block;color:#333;font-size:2.5em;line-height:1;font-family:'Lato', sans-serif;}
@@ -230,16 +230,16 @@ nav#primary-menu.statick-sticky > ul{
 .device-xxs #actions h3 a{font-size:2em;}
 #actions p,
 #actions span{color:#333;margin-top:8px;}
-#actions span a{color:#eb508e;}
+#actions span a{color:#2a3b8f;}
 #actions a.button{height:auto !important;padding:5px 20px !important; font-family:'Lato', sans-serif;}
-#actions .phone-numbers{border-right:1px solid #eb508e;padding-right:20px;text-align:right;}
+#actions .phone-numbers{border-right:1px solid #292e47;padding-right:20px;text-align:right;}
 #actions .schedule-online{border-left:1px solid rgba(0, 0, 0, .1);padding-left:20px;text-align:left;}
 .device-xs #actions .phone-numbers,
 .device-xs #actions .schedule-online:not(.close),
 .device-xxs #actions .phone-numbers,
 .device-xxs #actions .schedule-online{border-left:none;border-right:none;padding-left:0;padding-right:0;text-align:center;}
-#actions .schedule-online a.button{background-color:#eb508e !important;font-family:'Lato', sans-serif;color:#ffffff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
-#actions .schedule-online a.button:hover{background-color:#ba2b1a !important; font-family:'Lato', sans-serif;color:#fff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
+#actions .schedule-online a.button{background-color:#2a3b8f !important;font-family:'Lato', sans-serif;color:#ffffff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
+#actions .schedule-online a.button:hover{background-color:#292e47 !important; font-family:'Lato', sans-serif;color:#fff;opacity:1;text-shadow:none !important;text-decoration:none !important;}
 
 .device-xs #actions .schedule-online a.button, .device-xxs #actions .schedule-online a.button {
     font-size: 15px;
@@ -258,7 +258,7 @@ nav#primary-menu.statick-sticky > ul{
 /** TEAM OVERRIDES */
 
 #team{
-	background-color: #e8e7e3;
+	background-color: #cbf0fa;
 	padding-top: 40px;
 	line-height: 1.5 !important;
 	padding-bottom: 40px;
@@ -267,6 +267,14 @@ nav#primary-menu.statick-sticky > ul{
 .team-content {
     margin-top: 15px;
     color: #333;
+}
+
+.icon-arrow-left:before {
+    color: #000;
+}
+
+.icon-arrow-right:before {
+    color: #000;
 }
 
 .number-one-text{
@@ -407,13 +415,13 @@ section#specials {
 }
 
 .pricing-title {
-    background-color: #f7d029;
+    background-color: #be202e;
     text-shadow: none !important;
     border-radius: none !important;
 }
 
 .pricing-title h3 {
-	color: #000;
+	color: #fff;
 }
 
 .pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
@@ -537,7 +545,7 @@ section#members {
 	margin-bottom: 0;
 	padding-bottom: 0px;
 	border-bottom: 1px solid #e8e8e8;
-	background-color: #58c16d !important; 
+	background-color: #0084a3 !important; 
 }
 
 .pricing-box.pricing-extended .pricing-action-area {
@@ -648,7 +656,7 @@ section#members .heading-block span{
 
 #members a.button {
 /*	border-bottom: 3px solid rgba(0,0,0,0.15);*/
-	background-color: #eb508e !important;
+	background-color: #be202e !important;
 	color: #ffffff;
 }
 
@@ -679,7 +687,7 @@ section#services {
 	padding-top: 60px;
 	padding-bottom: 60px;
 	margin-bottom: 0px !important;
-	background-color: #fcfbf5 !important;
+	background-color: #cbf0fa !important;
 }
 
 .click-for-info{
@@ -741,7 +749,7 @@ section#services {
 section#tour {
   padding-top: 30px;
   padding-bottom: 40px;
-	background-color: #e8e7e3 !important;
+	background-color: #fff !important;
 }
 
 .boxed-slider {
@@ -756,7 +764,7 @@ section#tour {
 }
 
 .owl-theme .owl-dots .owl-dot span {
-    background-color: #eb508e;
+    background-color: #4d78ab;
 }
 
 .entry {
@@ -787,7 +795,7 @@ box-sizing: border-box;
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-    background-color: #eb508e !important;
+    background-color: #cbf0fa !important;
     color: #FFF !important;
     text-decoration: none;
 }
@@ -829,6 +837,32 @@ label.error { display: none !important; }
     opacity: .99 !important;
 	}
 }
+
+.device-sm .close {
+    font-size: 90px;
+    line-height: .24;
+    color: #e1e3e4 !important;
+    margin: 5px !important;
+    padding-top: 5px !important;
+    padding-bottom: 22px !important;
+    margin-bottom: 15px;
+    border-width: 1.3px !important;
+    opacity: .99 !important;
+	}
+
+.device-xs .close {
+    font-size: 90px;
+    line-height: .24;
+    color: #e1e3e4 !important;
+    margin: 5px !important;
+    padding-top: 5px !important;
+    padding-bottom: 22px !important;
+    margin-bottom: 15px;
+    border-width: 1.3px !important;
+    opacity: .99 !important;
+	}
+
+
 	.modal-header {
   border-bottom: none !important; 
 }
@@ -1099,6 +1133,18 @@ input, select, textarea {
     color: #fcb426;
 }
 
+.icon-angle-left:before {
+    color: #000;
+}
+
+.icon-angle-right:before {
+    color: #000;
+}
+
+.icon-angle-up:before {
+    color: #000;
+}
+
 #gotoTop:hover {
-    background-color: #eb508e !important;
+    background-color: #cbf0fa !important;
 }
