@@ -290,6 +290,11 @@ nav#primary-menu.statick-sticky > ul{
 
 .bio-image{width: 125%; max-width: 125%;}
 
+
+.device-sm .team.team-list .team-desc {
+    padding: 10px;
+}
+
 .device-xs .team.team-list .team-desc {
     padding: 10px;
 }
@@ -679,6 +684,7 @@ section#services {
 .click-for-info{
 	color: #000 !important;
 	font-size: 13px;
+	margin-bottom: 0px !important;
 }
 
 /*p, pre, ul, ol, dl, dd, blockquote, address, table, fieldset, form {
