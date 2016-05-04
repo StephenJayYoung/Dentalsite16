@@ -280,12 +280,31 @@ nav#primary-menu.statick-sticky > ul{
 	font-size: 15px;
 }
 
-.girl-image{
-	width: 70%;
-  max-width: 70%;
+.device-xxs .dr-headline{
+	font-size: 16px !important;
+}
+
+.device-xxs .doctor-text{
+	font-size: 14px;
 }
 
 .bio-image{width: 125%; max-width: 125%;}
+
+.device-xs .team.team-list .team-desc {
+    padding: 10px;
+}
+
+.device-xxs .team-title h4 {
+    font-size: 16px;
+}
+
+.device-xxs .team-desc {
+    font-size: 14px;
+}
+
+.device-xxs .team.team-list .team-desc {
+    padding: 10px;
+}
 
 
 @media (min-width: 992px) and (max-width:1200px){
