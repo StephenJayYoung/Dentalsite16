@@ -677,6 +677,7 @@ section#members .heading-block span{
 section#services {
 	margin-top: 0;
 	padding-top: 60px;
+	padding-bottom: 60px;
 	margin-bottom: 0px !important;
 	background-color: #fcfbf5 !important;
 }
@@ -1029,7 +1030,19 @@ user agent stylesheettd, th {
 #copyrights {
 background-color: #333;
   color: #9b9992 !important;
-  height: 130px;
+  height: 175px;
+}
+
+.device-xs #copyrights {
+background-color: #333;
+  color: #9b9992 !important;
+  height: 225px;
+}
+
+.device-xxs #copyrights {
+background-color: #333;
+  color: #9b9992 !important;
+  height: 275px;
 }
 
 /*.footer-text-bottom{
