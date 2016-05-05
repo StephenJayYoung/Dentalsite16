@@ -7,7 +7,26 @@ jQuery(document).ready(function($){
         nav: true,
         navText : ['<i class="icon-arrow-left"></i>','<i class="icon-arrow-right"></i>'],
         dots:false,
-        loop: true
+        loop: true,
+        center: true,
+//         responsive : {
+//     0 : {
+//         nav: false,
+//         items:1,
+//         margin: 50
+//     },
+//     // breakpoint from 480 up
+//     480 : {
+//         nav: false,
+//         items:1,
+//         stagePadding: true,
+//         margin: 40,
+//     },
+//     // breakpoint from 768 up
+//     768 : {
+
+//     }
+// }
     });
 
 
