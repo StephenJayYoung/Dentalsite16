@@ -343,7 +343,7 @@ section#specials {
 }
 
 .pricing-box-responsive{
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 }
 
 .pricing-box-responsive-two{
@@ -464,15 +464,15 @@ section#specials {
 
 
 .device-md .pricing-box-responsive{
-	padding-bottom: 35px;
+	padding-bottom: 60px;
 	}
 
 .device-sm .pricing-box-responsive{
-	padding-bottom: 54px;
+	padding-bottom: 91px;
 	}
 
 .device-sm .pricing-box-responsive-two {
-    padding-bottom: 43px;
+    padding-bottom: 56px;
 }
 
 
