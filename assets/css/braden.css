@@ -319,11 +319,18 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 
+.dr-headline{
+	margin-top: 20px; 
+	margin-bottom: 10px
+}
 
+.dr-text-margin{
+	margin-bottom: 10px
+}
 
-
-
-
+.meet-the-team{
+	color: #2a3b8f;
+}
 
 .device-xxs .dr-headline{
 	font-size: 16px !important;
@@ -376,30 +383,6 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 
-
-@media (min-width: 765px) and (max-width:993px){
-
-		.girl-image {
-		    width: 82%;
-		    max-width: 82%;
-		    padding-top: 0px !important;
-		    padding-bottom: 0px !important;
-		    background-color: none !important;
-		}
-		.bio-image {
-	    width: 142%;
-	    max-width: 143%;
-		}
-
-		.team-text {
-	    font-size: 13px;
-	}
-
-	.number-one-text{
-		font-size: 20px !important;
-	}
-}
-
 @media (max-width: 767px){
 
 	.bio-image {
@@ -418,6 +401,10 @@ section#specials {
 	padding-top: 60px;
 	background-color: #fff;
 	color:;
+}
+
+.specials-header{
+	color: #2a3b8f;
 }
 
 .pricing-features ul {
@@ -954,6 +941,18 @@ label.error { display: none !important; }
     margin: 0 auto;
     z-index: 10;
     border-radius: 4px;
+}
+
+.click-for-map{
+	margin-bottom: 0px !important; padding-bottom: 0px !important
+}
+
+.dr-location{
+	padding-top: 20px; font-size: 19px !important;
+}
+
+.location-table{
+	padding-top: 20px; padding-bottom: 0px !important; margin-left: 5px; margin-right: 5px
 }
 
 .desktop-address{
