@@ -9,24 +9,6 @@ jQuery(document).ready(function($){
         dots:false,
         loop: true,
         center: true,
-//         responsive : {
-//     0 : {
-//         nav: false,
-//         items:1,
-//         margin: 50
-//     },
-//     // breakpoint from 480 up
-//     480 : {
-//         nav: false,
-//         items:1,
-//         stagePadding: true,
-//         margin: 40,
-//     },
-//     // breakpoint from 768 up
-//     768 : {
-
-//     }
-// }
     });
 
 

@@ -290,17 +290,6 @@ nav#primary-menu.statick-sticky > ul{
 		width: 100%;
 }
 
-/*.device-xs .owl-carousel .owl-item img {
-    display: block;
-    width: 64%;
-    -webkit-transform-style: preserve-3d;
-}
-
-.device-xs .team.team-list .team-desc {
-    padding: 10px;
-    width: 64%;
-}*/
-
 .team-image-mobile{
 	width: 110%;
 }
