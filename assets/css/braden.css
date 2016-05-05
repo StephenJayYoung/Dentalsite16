@@ -598,7 +598,7 @@ section#members .heading-block span{
 }
 
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
-	background-color: #9c3241 !important;;
+	background-color: #292e47 !important;;
 }
 
 /** REVIEWS OVERRIDES */
@@ -1038,12 +1038,12 @@ input, select, textarea {
 /*CUSTOM BUTTON COLOR/MODAL COLORS*/
 
 .button{
-	background-color: #ba2b1a  !important;
+	background-color: #2a3b8f  !important;
 	font-family:'Lato', sans-serif;
 }
 
 .button:hover{
-	background-color:  #9c3241 !important;
+	background-color:  #292e47 !important;
 	font-family:'Lato', sans-serif;
 }
 
